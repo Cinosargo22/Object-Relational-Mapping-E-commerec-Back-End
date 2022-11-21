@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jpd61/e-commerce-backend.git"
+    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
-  "author": "Joseph DeWoody",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
